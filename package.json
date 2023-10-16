@@ -1,6 +1,5 @@
 {
-  "name": "triple-core",
-  "version": "0.1.0",
+  "name": "next-both-router-compatible-context",
   "private": true,
   "scripts": {
     "dev": "next dev",
